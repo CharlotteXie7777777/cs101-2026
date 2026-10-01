@@ -7,7 +7,6 @@ int main() {
             printf("a is equal to 10\n");
     } else if (a < 20) {
             printf("a is less than 20\n");
-    
     }
     return 0;
 }
