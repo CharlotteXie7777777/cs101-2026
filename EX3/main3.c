@@ -9,6 +9,9 @@ int main()
   else if (i % 3 == 0){
       printf("Love");
   }
+  else if (i % 5 == 0){
+      printf("IU");
+  }
   else{
       printf("%d\n",i);
   }
