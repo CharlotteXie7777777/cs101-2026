@@ -7,6 +7,7 @@ int multi(int i, int j){
         multi(i, j-1);
         printf("%d*%d=%-2d\t", i, j, i*j);
     }
+    return 0;//
 }
 
 //
